@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">UCL Champion</string>
+
+    <string name="club_name">Nama Club</string>
+    <string name="description">Deskripsi</string>
+
+    <string name="about">About</string>
+
+    <string name="nama">Ahmad Yusron</string>
+    <string name="email">yusron920@gmail.com</string>
+
+    <string-array name="data_name">
+        <item>Real Madrid</item>
+        <item>AC Milan</item>
+        <item>Liverpool</item>
+        <item>Bayern Munich</item>
+        <item>Barcelona</item>
+        <item>Inter Milan</item>
+        <item>Manchester United</item>
+        <item>Chelsea</item>
+        <item>FC Porto</item>
+        <item>Manchester City</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Real Madrid, klub asal ibu kota Spanyol, adalah klub tersukses di Liga Champions UEFA. Mereka telah memenangkan gelar tersebut sebanyak 14 kali, yang merupakan rekor. Real Madrid meraih gelar pertama mereka pada tahun 1955-56, dan gelar terakhir mereka pada tahun 2021-22.</item>
+        <item>AC Milan, klub asal Italia, adalah klub tersukses kedua di Liga Champions UEFA. Mereka telah memenangkan gelar tersebut sebanyak 7 kali. AC Milan meraih gelar pertama mereka pada tahun 1962-63, dan gelar terakhir mereka pada tahun 2006-07.</item>
+        <item>Liverpool, klub asal Inggris, adalah klub tersukses ketiga di Liga Champions UEFA. Mereka telah memenangkan gelar tersebut sebanyak 6 kali. Liverpool meraih gelar pertama mereka pada tahun 1976-77, dan gelar terakhir mereka pada tahun 2018-19.</item>
+        <item>Bayern Munich, klub asal Jerman, adalah klub tersukses keempat di Liga Champions UEFA. Mereka telah memenangkan gelar tersebut sebanyak 6 kali. Bayern Munich meraih gelar pertama mereka pada tahun 1974-75, dan gelar terakhir mereka pada tahun 2020-21.</item>
+        <item>Barcelona, klub asal Spanyol, adalah klub tersukses kelima di Liga Champions UEFA. Mereka telah memenangkan gelar tersebut sebanyak 5 kali. Barcelona meraih gelar pertama mereka pada tahun 1991-92, dan gelar terakhir mereka pada tahun 2014-15.</item>
+        <item>Inter Milan, klub asal Italia, adalah klub tersukses keenam di Liga Champions UEFA. Mereka telah memenangkan gelar tersebut sebanyak 3 kali. Inter Milan meraih gelar pertama mereka pada tahun 1963-64, dan gelar terakhir mereka pada tahun 2009-10.</item>
+        <item>Manchester United, klub asal Inggris, adalah klub tersukses ketujuh di Liga Champions UEFA. Mereka telah memenangkan gelar tersebut sebanyak 3 kali. Manchester United meraih gelar pertama mereka pada tahun 1967-68, dan gelar terakhir mereka pada tahun 2007-08.</item>
+        <item>Chelsea, klub asal Inggris, adalah klub tersukses kedelapan di Liga Champions UEFA. Mereka telah memenangkan gelar tersebut sebanyak 2 kali. Chelsea meraih gelar pertama mereka pada tahun 2011-12, dan gelar terakhir mereka pada tahun 2020-21.</item>
+        <item>FC Porto, klub asal Portugal, adalah klub tersukses kesembilan di Liga Champions UEFA. Mereka telah memenangkan gelar tersebut sebanyak 2 kali. FC Porto meraih gelar pertama mereka pada tahun 1986-87, dan gelar terakhir mereka pada tahun 2003-04.</item>
+        <item>Manchester City, klub asal Inggris, adalah klub tersukses kesepuluh di Liga Champions UEFA. Mereka telah memenangkan gelar tersebut sebanyak 1 kali. Manchester City meraih gelar pertama mereka pada tahun 2021-22.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/madrid</item>
+        <item>@drawable/milan</item>
+        <item>@drawable/liverpool</item>
+        <item>@drawable/bayern</item>
+        <item>@drawable/barcelona</item>
+        <item>@drawable/inter</item>
+        <item>@drawable/mu</item>
+        <item>@drawable/chelsea</item>
+        <item>@drawable/porto</item>
+        <item>@drawable/city</item>
+    </integer-array>
+</resources>
